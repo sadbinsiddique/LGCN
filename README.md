@@ -58,7 +58,7 @@ while maintaining computational efficiency.
     <tr><td>OFVIG-Net</td><td>2024</td></tr>
     <tr><td>SpoT-GCN</td><td>2024</td></tr>
     <tr><td>FM-GCN</td><td>2026</td></tr>
-    <tr><td><b>X-GCN (Proposed)</b></td><td><b>2027</b></td></tr>
+    <tr><td><b>LGCN (Proposed)</b></td><td><b>2027</b></td></tr>
 </table>
 
 <hr>
