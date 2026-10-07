@@ -105,7 +105,7 @@ Comparison
 <h2>📌 Project Structure</h2>
 
 <pre>
-X-GCN
+LGCN
 │
 ├── Dataset
 ├── Notebook
