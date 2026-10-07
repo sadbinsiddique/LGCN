@@ -7,7 +7,7 @@
 <body>
 
 <center>
-    <h1>🚀 X-GCN</h1>
+    <h1>🚀 LGCN</h1>
     <h2>A Micro-Motion Guided Lightweight Graph Neural Network for Efficient Facial Micro-Expression Recognition</h2>
 
 </center>
@@ -17,7 +17,7 @@
 <h2>📖 Project Overview</h2>
 
 <p>
-X-GCN is a lightweight Graph Neural Network (GNN) for Facial Micro-Expression Recognition (MER).
+LGCN is a lightweight Graph Neural Network (GNN) for Facial Micro-Expression Recognition (MER).
 It leverages micro-motion-guided graph representation learning to capture subtle facial movements
 while maintaining computational efficiency.
 </p>
